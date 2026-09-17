@@ -1,0 +1,9 @@
+# Do not edit manually
+
+# This file is used to override language statistics
+public/** linguist-vendored
+
+*.woff binary
+*.gif binary
+public/*.html linguist-vendored
+src/** linguist-detectable
