@@ -1,0 +1,8 @@
+.env.local
+npm-debug.log*
+.DS_Store
+.cache/
+*.log
+.next/
+*.tgz
+dist/
